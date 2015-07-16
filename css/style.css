@@ -1,0 +1,24 @@
+.bg-primary {
+  background-color: #A26CD2;
+}
+
+header hr {
+  border-color: #A26CD2;
+}
+
+header .btn-primary {
+  background-color: #A26CD2;
+}
+
+.text-primary, a {
+  color: #A26CD2;
+
+}
+
+.navbar-default .nav > li.active>a, .navbar-default .nav>li.active>a:focus {
+    color: #A26CD2 !important;
+}
+
+.navbar-default .nav > li.active>a, .navbar-default .nav>li>a:hover {
+    color: #A26CD2 !important;
+}
